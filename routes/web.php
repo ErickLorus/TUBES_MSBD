@@ -65,6 +65,10 @@ Route::get('/smk', function () {
     return view('admin.smk');
 });
 
+Route::get('/editbuku', function () {
+    return view('admin.editbuku');
+});
+
 Route::get('/transaksi', function () {
     return view('admin.transaksi');
 });
