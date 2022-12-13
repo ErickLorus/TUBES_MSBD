@@ -72,3 +72,7 @@ Route::get('/editbuku', function () {
 Route::get('/transaksi', function () {
     return view('admin.transaksi');
 });
+
+Route::get('/kasir', function () {
+    return view('kasir.index');
+});

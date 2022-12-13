@@ -1,11 +1,11 @@
-@extends('layout.mainAdmin')
+@extends('layout.mainKasir')
 
 @section('content')
 <div id="page_top" class="section-body">
     <div class="container-fluid">
         <div class="page-header">
             <div class="left">
-                <h1 class="page-title">Dashboard Admin</h1>                                               
+                <h1 class="page-title">Dashboard Kasir</h1>                                               
             </div>
             <div class="right">
                 <div class="notification d-flex">
