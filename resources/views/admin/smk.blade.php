@@ -30,8 +30,9 @@
                                 <td>ALONSO EXAUDI MANGARATUA SIRAIT</td>
                                 <td>7770501022000102</td>
                                 <td>
-                                    <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                    <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -39,8 +40,9 @@
                                 <td>AURELIA HADASSAH</td>
                                 <td>7770501022000103</td>
                                 <td>
-                                    <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                    <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -48,8 +50,9 @@
                                 <td>CHELSEA CHANG</td>
                                 <td>7770501022000104</td>
                                 <td>
-                                    <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                    <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                                 </td>
                             </tr>
                         </tbody>
@@ -80,8 +83,9 @@
                                 <td>JAMES NAPOLEON LAI</td>
                                 <td>7770501021000098</td>
                                 <td>
-                                    <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                    <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -89,8 +93,9 @@
                                 <td>JOANNA VANIA</td>
                                 <td>7770300819000277</td>
                                 <td>
-                                    <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                    <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -98,8 +103,9 @@
                                 <td>RACHEL EMILY YEO</td>
                                 <td>7770501021000101</td>
                                 <td>
-                                    <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                    <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                                 </td>
                             </tr>
                         </tbody>
@@ -129,8 +135,9 @@
                                 <td>CAMELIA CHEN</td>
                                 <td>7770501020000092</td>
                                 <td>
-                                    <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                    <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -138,8 +145,9 @@
                                 <td>DENISE WINSTANIA</td>
                                 <td>7770300919000315</td>
                                 <td>
-                                    <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                    <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -147,8 +155,9 @@
                                 <td>JENNIFER HALIM</td>
                                 <td>7770300919000260</td>
                                 <td>
-                                    <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                    <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                                 </td>
                             </tr>
                         </tbody>

@@ -30,8 +30,9 @@
                                 <td>AARON ADHIGUNA</td>
                                 <td>7770300722000430</td>
                                 <td>
-                                    <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                    <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -39,8 +40,9 @@
                                 <td>ALDRICH THEODORE TJAHJASARI</td>
                                 <td>7770300722000431</td>
                                 <td>
-                                    <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                    <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -48,8 +50,9 @@
                                 <td>ARETHA QUINN TANDJO</td>
                                 <td>7770300722000432</td>
                                 <td>
-                                    <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                    <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -57,8 +60,9 @@
                                 <td>AVELYN SUKA</td>
                                 <td>7770300722000433</td>
                                 <td>
-                                    <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                    <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -66,8 +70,9 @@
                                 <td>CAYLEB DARIUS SIMJAYA</td>
                                 <td>7770300722000434</td>
                                 <td>
-                                    <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                    <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -75,8 +80,9 @@
                                 <td>CHRICELYN LOUIS ANDITIO</td>
                                 <td>7770300722000435</td>
                                 <td>
-                                    <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                    <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -84,8 +90,9 @@
                                 <td>CLAIRE TANAKA</td>
                                 <td>7770300722000436</td>
                                 <td>
-                                    <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                    <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -93,8 +100,9 @@
                                 <td>EVANO YOSAFAT NATHANAEL PANJAITAN</td>
                                 <td>7770300722000437</td>
                                 <td>
-                                    <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                    <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                                 </td>
                             </tr>
                         </tbody>
@@ -125,8 +133,9 @@
                                 <td>ADRIEL DEAN TANADY</td>
                                 <td>7770300721000399</td>
                                 <td>
-                                    <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                    <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -134,8 +143,9 @@
                                 <td>ANA MARCELA</td>
                                 <td>7770300721000400</td>
                                 <td>
-                                    <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                    <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -143,8 +153,9 @@
                                 <td>ARVIKA KEZIA CAROLINE SIBURIAN</td>
                                 <td>7770300721000401</td>
                                 <td>
-                                    <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                    <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -152,8 +163,9 @@
                                 <td>CAROLINE NATHANIA</td>
                                 <td>7770300721000402</td>
                                 <td>
-                                    <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                    <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -161,8 +173,9 @@
                                 <td>DERICK MULIO</td>
                                 <td>7770300822000424</td>
                                 <td>
-                                    <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                    <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -170,8 +183,9 @@
                                 <td>EIRENE LAUREN</td>
                                 <td>7770300721000403</td>
                                 <td>
-                                    <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                    <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -179,8 +193,9 @@
                                 <td>EUGENIA FIORENZA WU</td>
                                 <td>7770300721000404</td>
                                 <td>
-                                    <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                    <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -188,8 +203,9 @@
                                 <td>FREDERICK KARESHA </td>
                                 <td>7770300822000425</td>
                                 <td>
-                                    <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                    <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                                 </td>
                             </tr>
                         </tbody>
@@ -219,8 +235,9 @@
                                 <td>ADELIN RUSLI</td>
                                 <td>7770300720000351</td>
                                 <td>
-                                    <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                    <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -228,8 +245,9 @@
                                 <td>AGINTA ALFREDO SINUHAJI</td>
                                 <td>7770300720000352</td>
                                 <td>
-                                    <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                    <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -237,8 +255,9 @@
                                 <td>BEATRICIA AMANDA KOK</td>
                                 <td>7770300720000353</td>
                                 <td>
-                                    <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                    <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -246,8 +265,9 @@
                                 <td>BRIAN HANS TARIGAN</td>
                                 <td>7770300720000354</td>
                                 <td>
-                                    <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                    <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -255,8 +275,9 @@
                                 <td>CALLISTA LUXANDRA</td>
                                 <td>7770300720000355</td>
                                 <td>
-                                    <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                    <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -264,8 +285,9 @@
                                 <td>CLEMENT FORTUNA SALIM</td>
                                 <td>7770300720000356</td>
                                 <td>
-                                    <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                    <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -273,8 +295,9 @@
                                 <td>DARREN TANAKA</td>
                                 <td>7770300720000357</td>
                                 <td>
-                                    <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                    <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -282,8 +305,9 @@
                                 <td>EASTLYN PUTRI ELISSA PERANGINANGIN</td>
                                 <td>7770300720000358</td>
                                 <td>
-                                    <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                    <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                                 </td>
                             </tr>
                         </tbody>
