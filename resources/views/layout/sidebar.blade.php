@@ -19,14 +19,20 @@
                     <li class="active">
                         <a href="admin" class="has-arrow"><i class="fa fa-home"></i><span data-hover="Dashboard">Dashboard</span></a>
                     </li>
-                    <li><a href="student" aria-haspopup="true"><i class="fa fa-user"></i><span data-hover="Murid">Student</a>
+                    <li><a href="#" aria-haspopup="true"><i class="fa fa-user"></i><span data-hover="Murid">Student</a>
                     <ul class="dropdown" aria-label="submenu">
                         <li><a href="smp">SMP</a></li>
                         <li><a href="sma">SMA</a></li>
                         <li><a href="smk">SMK</a></li>
                     </ul>
                     </li>
-                    <li><a href="buku"><i class="fa fa-book"></i><span data-hover="Buku">Book</span></a></li>
+                    <li><a href="#" aria-haspopup="true"><i class="fa fa-book"></i><span data-hover="Buku">Book</span></a>
+                    <ul class="dropdown" aria-label="submenu">
+                        <li><a href="bukusmp">SMP</a></li>
+                        <li><a href="bukusma">SMA</a></li>
+                        <li><a href="bukusmk">SMK</a></li>
+                    </ul>
+                    </li>
                     <li><a href="transaksi"><i class="fa fa-money"></i><span data-hover="Transaksi">Transaction</span></a></li>
                 </ul>
             </nav>

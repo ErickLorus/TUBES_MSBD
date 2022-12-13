@@ -41,8 +41,16 @@ Route::get('/test', function () {
     return view('admin.contoh');
 });
 
-Route::get('/buku', function () {
-    return view('admin.buku');
+Route::get('/bukusmp', function () {
+    return view('admin.bukusmp');
+});
+
+Route::get('/bukusma', function () {
+    return view('admin.bukusma');
+});
+
+Route::get('/bukusmk', function () {
+    return view('admin.bukusmk');
 });
 
 Route::get('/smp', function () {
