@@ -76,3 +76,16 @@ Route::get('/transaksi', function () {
 Route::get('/kasir', function () {
     return view('kasir.index');
 });
+
+Route::get('/stoksmp', function () {
+    return view('kasir.stoksmp');
+});
+
+Route::get('/stoksma', function () {
+    return view('kasir.stoksma');
+});
+
+Route::get('/stoksmk', function () {
+    return view('kasir.stoksmk');
+});
+

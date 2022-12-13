@@ -21,9 +21,9 @@
                     </li>
                     <li><a href="#" aria-haspopup="true"><i class="fa fa-bar-chart"></i><span data-hover="Stok">Stock</a>
                     <ul class="dropdown" aria-label="submenu">
-                        <li><a href="smp">SMP</a></li>
-                        <li><a href="sma">SMA</a></li>
-                        <li><a href="smk">SMK</a></li>
+                        <li><a href="stoksmp">SMP</a></li>
+                        <li><a href="stoksma">SMA</a></li>
+                        <li><a href="stoksmk">SMK</a></li>
                     </ul>
                     </li>
                     <li><a href="bukti"><i class="fa fa-check-square"></i><span data-hover="Validasi">Validation</span></a>

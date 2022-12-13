@@ -31,8 +31,9 @@
                             <td> Pendidikan Pancasila dan Kewarganegaraan 1 (E) </td>
                             <td>130,000</td>
                             <td>
-                                <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                             </td>
                         </tr>
                         <tr>
@@ -40,8 +41,9 @@
                             <td>Cerdas Berbahasa Indonesia 1 (E)</td>
                             <td>130,000</td>
                             <td>
-                                <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                             </td>
                         </tr>
                         <tr>
@@ -49,8 +51,9 @@
                             <td>ESPS Matematika - Wajib (E)</td>
                             <td>180,000</td>
                             <td>
-                                <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                             </td>
                         </tr>
                         <tr>
@@ -58,8 +61,9 @@
                             <td>Sejarah Indonesia (E)</td>
                             <td>85,000</td>
                             <td>
-                                <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                             </td>
                         </tr>
                         <tr>
@@ -67,8 +71,9 @@
                             <td>Fisika 1 (E)</td>
                             <td>170,000</td>
                             <td>
-                                <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                             </td>
                         </tr>
                         <tr>
@@ -76,8 +81,9 @@
                             <td>Kimia 1 (E)</td>
                             <td>115,000</td>
                             <td>
-                                <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                             </td>
                         </tr>
                         <tr>
@@ -85,8 +91,9 @@
                             <td>Biologi 1 (E)</td>
                             <td>170,000</td>
                             <td>
-                                <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                             </td>
                         </tr>
                         <tr>
@@ -94,8 +101,9 @@
                             <td>Ekonomi 1 (E)</td>
                             <td>120,000</td>
                             <td>
-                                <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                             </td>
                         </tr>
                         <tr>
@@ -103,8 +111,9 @@
                             <td>New Syllabus Maths 4 (S)</td>
                             <td>325,000</td>
                             <td>
-                                <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                             </td>
                         </tr>
                         <tr>
@@ -112,8 +121,9 @@
                             <td>B. Mandarin HELLO jld. 10 (Textbook)</td>
                             <td>65,000</td>
                             <td>
-                                <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                             </td>
                         </tr>
                         <tr>
@@ -121,8 +131,9 @@
                             <td>B. Mandarin HELLO jld. 10 (Workbook)</td>
                             <td>40,000</td>
                             <td>
-                                <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                             </td>
                         </tr>
                         <tr>
@@ -130,8 +141,9 @@
                             <td>Reading Explorer 4 (NG)</td>
                             <td>220,000</td>
                             <td>
-                                <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                             </td>
                         </tr>
                         <tr>
@@ -139,8 +151,9 @@
                             <td>Expert IELTS 5 (PL)</td>
                             <td>360,000</td>
                             <td>
-                                <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                             </td>
                         </tr>
                         <tr>
@@ -148,8 +161,9 @@
                             <td>Buku Tulis 1 Set</td>
                             <td>110,000</td>
                             <td>
-                                <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                             </td>
                         </tr>
                         <thead>
@@ -186,8 +200,9 @@
                             <td> Pendidikan Pancasila dan Kewarganegaraan 2 (E)</td>
                             <td>110,000</td>
                             <td>
-                                <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                             </td>
                         </tr>
                         <tr>
@@ -195,8 +210,9 @@
                             <td>Cerdas Berbahasa Indonesia 2 (E)</td>
                             <td>110,000</td>
                             <td>
-                                <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                             </td>
                         </tr>
                         <tr>
@@ -204,8 +220,9 @@
                             <td>ESPS Matematika 2 - Wajib (E)</td>
                             <td>240,000</td>
                             <td>
-                                <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                             </td>
                         </tr>
                         <tr>
@@ -213,8 +230,9 @@
                             <td>Sejarah Indonesia 2 (E)</td>
                             <td>135,000</td>
                             <td>
-                                <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                             </td>
                         </tr>
                         <tr>
@@ -222,8 +240,9 @@
                             <td>Fisika 2 (E)</td>
                             <td>205,000</td>
                             <td>
-                                <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                             </td>
                         </tr>
                         <tr>
@@ -231,8 +250,9 @@
                             <td>Kimia 2 (E)</td>
                             <td>140,000</td>
                             <td>
-                                <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                             </td>
                         </tr>
                         <tr>
@@ -240,8 +260,9 @@
                             <td>Biologi 2 (E)</td>
                             <td>175,000</td>
                             <td>
-                                <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                             </td>
                         </tr>
                         <tr>
@@ -249,8 +270,9 @@
                             <td>Think! Add Maths Sec (S)</td>
                             <td>395,000</td>
                             <td>
-                                <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                             </td>
                         </tr>
                         <tr>
@@ -258,8 +280,9 @@
                             <td>B. Mandarin HELLO jld. 11 (Textbook)</td>
                             <td>65,000</td>
                             <td>
-                                <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                             </td>
                         </tr>
                         <tr>
@@ -267,8 +290,9 @@
                             <td>B. Mandarin HELLO jld. 11 (Workbook)</td>
                             <td>40,000</td>
                             <td>
-                                <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                             </td>
                         </tr>
                         <tr>
@@ -276,8 +300,9 @@
                             <td>Reading Explorer 5 (NG)</td>
                             <td>220,000</td>
                             <td>
-                                <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                             </td>
                         </tr>
                         <tr>
@@ -285,8 +310,9 @@
                             <td>Gold Experience B2+ (PL)</td>
                             <td>260,000</td>
                             <td>
-                                <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                             </td>
                         </tr>
                         <tr>
@@ -294,8 +320,9 @@
                             <td>Buku Tulis 1 Set</td>
                             <td>110,000</td>
                             <td>
-                                <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                             </td>
                         </tr>
                         <tr>
@@ -330,8 +357,9 @@
                             <td>Pendidikan Pancasila dan Kewarganegaraan 3 (E) </td>
                             <td>105,000</td>
                             <td>
-                                <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                             </td>
                         </tr>
                         <tr>
@@ -339,8 +367,9 @@
                             <td>Cerdas Berbahasa Indonesia 3 (E)</td>
                             <td>110,000</td>
                             <td>
-                                <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                             </td>
                         </tr>
                         <tr>
@@ -348,8 +377,9 @@
                             <td>ESPS Matematika 3 - Wajib (E)</td>
                             <td>155,000</td>
                             <td>
-                                <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                             </td>
                         </tr>
                         <tr>
@@ -357,8 +387,9 @@
                             <td>Sejarah Indonesia 3 (E)</td>
                             <td>90,000</td>
                             <td>
-                                <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                             </td>
                         </tr>
                         <tr>
@@ -366,8 +397,9 @@
                             <td>Fisika 3 (E)</td>
                             <td>180,000</td>
                             <td>
-                                <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                             </td>
                         </tr>
                         <tr>
@@ -375,8 +407,9 @@
                             <td>Kimia 3 (E)</td>
                             <td>145,000</td>
                             <td>
-                                <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                             </td>
                         </tr>
                         <tr>
@@ -384,8 +417,9 @@
                             <td>Biologi 3 (E)</td>
                             <td>145,000</td>
                             <td>
-                                <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                             </td>
                         </tr>
                         <tr>
@@ -393,8 +427,9 @@
                             <td>B. Mandarin HELLO jld. 12 (Textbook) </td>
                             <td>65,000</td>
                             <td>
-                                <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                             </td>
                         </tr>
                         <tr>
@@ -402,8 +437,9 @@
                             <td>B. Mandarin HELLO jld. 12 (Workbook) </td>
                             <td>40,000</td>
                             <td>
-                                <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                             </td>
                         </tr>
                         <tr>
@@ -411,8 +447,9 @@
                             <td>Gold Experience B2 (PL) </td>
                             <td>260,000</td>
                             <td>
-                                <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus</button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                             </td>
                         </tr>
                         <tr>
@@ -420,9 +457,9 @@
                             <td>Buku Tulis 1 Set</td>
                             <td>110,000</td>
                             <td>
-                                <button class="btn btn-primary"><i class="fa fa-edit"></i> Edit</button>
-                                <button class="btn btn-danger"><i class="fa fa-trash"></i> Hapus
-                                </button>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                             </td>
                         </tr>
                         <tr>

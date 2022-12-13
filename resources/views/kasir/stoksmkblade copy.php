@@ -1,4 +1,4 @@
-@extends('layout.mainAdmin')
+@extends('layout.mainKasir')
 
 @section('content')
 
@@ -11,7 +11,7 @@
     </div>
     <div id="page-top" class="section-body"></div>
     <tr>
-        <th> SMP VII </th>
+        <th> SMK X </th>
     </tr>
     <div class="row clearfix">
         <div class="col-12">
@@ -28,8 +28,8 @@
                     <tbody>
                         <tr>
                             <th class="w60">1</th>
-                            <td> Pendidikan Pancasila dan Kewarganegaraan 1 (E) </td>
-                            <td>75,000</td>
+                            <td>Pendidikan Pancasila dan Kewarganegaraan 1 (E)</td>
+                            <td>140,000</td>
                             <td>
                             <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
                             <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
@@ -38,8 +38,8 @@
                         </tr>
                         <tr>
                             <th class="w60">1</th>
-                            <td>Mahir Berbahasa Indonesia 1 (E)</td>
-                            <td>105,000</td>
+                            <td>PTP Berbahasa Indonesia 1 (E)</td>
+                            <td>60,000</td>
                             <td>
                             <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
                             <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
@@ -48,8 +48,8 @@
                         </tr>
                         <tr>
                             <th class="w60">1</th>
-                            <td>ESPS IPA - Biologi 1 (E)</td>
-                            <td>135,000</td>
+                            <td>PTP Matematika 1 (E)</td>
+                            <td>55,000</td>
                             <td>
                             <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
                             <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
@@ -58,8 +58,8 @@
                         </tr>
                         <tr>
                             <th class="w60">1</th>
-                            <td>ESPS IPA - Fisika 1 (E)</td>
-                            <td>105,000 </td>
+                            <td>Sejarah Indonesia (E)</td>
+                            <td>180,000</td>
                             <td>
                             <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
                             <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
@@ -68,8 +68,8 @@
                         </tr>
                         <tr>
                             <th class="w60">1</th>
-                            <td>IPS 1 (E)</td>
-                            <td>135,000</td>
+                            <td>Understanding English Grammar</td>
+                            <td>300,000</td>
                             <td>
                             <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
                             <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
@@ -78,8 +78,8 @@
                         </tr>
                         <tr>
                             <th class="w60">1</th>
-                            <td>Science Matters Vol. A (mc)</td>
-                            <td>185,000</td>
+                            <td>Reading Explorer 4 (NG)</td>
+                            <td>220,000</td>
                             <td>
                             <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
                             <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
@@ -88,27 +88,7 @@
                         </tr>
                         <tr>
                             <th class="w60">1</th>
-                            <td>Science Matters Vol. B (mc)</td>
-                            <td>205,000</td>
-                            <td>
-                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
-                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
-                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <th class="w60">1</th>
-                            <td>New Syllabus Maths 1 (S) </td>
-                            <td>320,000</td>
-                            <td>
-                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
-                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
-                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <th class="w60">1</th>
-                            <td>B. Mandarin HELLO jld. 7 (Textbook)</td>
+                            <td>B. Mandarin HELLO jld. 10 (Textbook)</td>
                             <td>65,000</td>
                             <td>
                             <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
@@ -118,7 +98,7 @@
                         </tr>
                         <tr>
                             <th class="w60">1</th>
-                            <td>B. Mandarin HELLO jld. 7 (Workbook)</td>
+                            <td>B. Mandarin HELLO jld. 10 (Workbook)</td>
                             <td>40,000</td>
                             <td>
                             <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
@@ -126,29 +106,8 @@
                             <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
                             </td>
                         </tr>
-                        <tr>
                             <th class="w60">1</th>
-                            <td>Gold Experience B1 (PL)</td>
-                            <td>260,000</td>
-                            <td>
-                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
-                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
-                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <th class="w60">1</th>
-                            <td>Reading Explorer 1 (NG)</td>
-                            <td>240,000</td>
-                            <td>
-                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
-                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
-                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <th class="w60">1</th>
-                            <td>Buku Tulis 1 Set</td>
+                            <td>Buku Tulis SMK 1 Set</td>
                             <td>110,000</td>
                             <td>
                             <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
@@ -158,9 +117,9 @@
                         </tr>
                         <thead>
                             <tr>
-                                <th> 13 </th>
+                                <th> 9 </th>
                                 <th> Total </th>
-                                <th>1,980,000</th>
+                                <th>1,185,000</th>
                             </tr>
                         </thead>
                     </tbody>
@@ -170,7 +129,7 @@
     </div>
 
     <tr>
-        <th> SMP VIII </th>
+        <th> SMK XI </th>
     </tr>
     <div class="row clearfix">
         <div class="col-12">
@@ -187,8 +146,8 @@
                     <tbody>
                         <tr>
                             <th class="w60">1</th>
-                            <td> Pendidikan Pancasila dan Kewarganegaraan 2 (E) </td>
-                            <td>85,000</td>
+                            <td>Pendidikan Pancasila dan Kewarganegaraan 2 (E)</td>
+                            <td>120,000</td>
                             <td>
                             <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
                             <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
@@ -197,8 +156,8 @@
                         </tr>
                         <tr>
                             <th class="w60">1</th>
-                            <td>Mahir Berbahasa Indonesia 2 (E)</td>
-                            <td>95,000</td>
+                            <td>PTP Berbahasa Indonesia 2 (E)</td>
+                            <td>110,000</td>
                             <td>
                             <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
                             <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
@@ -207,8 +166,8 @@
                         </tr>
                         <tr>
                             <th class="w60">1</th>
-                            <td>ESPS IPA - Biologi 2 (E)</td>
-                            <td>125,000</td>
+                            <td>PTP Matematika 2 (E)</td>
+                            <td>55,000</td>
                             <td>
                             <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
                             <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
@@ -217,8 +176,8 @@
                         </tr>
                         <tr>
                             <th class="w60">1</th>
-                            <td>ESPS IPA - Fisika 2 (E)</td>
-                            <td>145,000 </td>
+                            <td>Reading Explorer (NG)</td>
+                            <td>220,000</td>
                             <td>
                             <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
                             <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
@@ -227,27 +186,7 @@
                         </tr>
                         <tr>
                             <th class="w60">1</th>
-                            <td>IPS 2 (E)</td>
-                            <td>85,000</td>
-                            <td>
-                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
-                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
-                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <th class="w60">1</th>
-                            <td>New Syllabus Maths 2 (S)</td>
-                            <td>320,000</td>
-                            <td>
-                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
-                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
-                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <th class="w60">1</th>
-                            <td>B. Mandarin HELLO jld. 8 (Textbook)</td>
+                            <td>B. Mandarin HELLO jld. 11 (Textbook)</td>
                             <td>65,000</td>
                             <td>
                             <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
@@ -257,7 +196,7 @@
                         </tr>
                         <tr>
                             <th class="w60">1</th>
-                            <td>B. Mandarin HELLO jld. 8 (Workbook) </td>
+                            <td>B. Mandarin HELLO jld. 11 (Workbook)</td>
                             <td>40,000</td>
                             <td>
                             <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
@@ -267,27 +206,7 @@
                         </tr>
                         <tr>
                             <th class="w60">1</th>
-                            <td>Gold Experience B1+ (PL) </td>
-                            <td>260,000</td>
-                            <td>
-                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
-                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
-                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <th class="w60">1</th>
-                            <td>Reading Explorer 2 (NG) </td>
-                            <td>240,000</td>
-                            <td>
-                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
-                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
-                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <th class="w60">1</th>
-                            <td>Buku Tulis 1 Set</td>
+                            <td>Buku Tulis SMK 1 Set</td>
                             <td>110,000</td>
                             <td>
                             <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
@@ -296,9 +215,9 @@
                             </td>
                         </tr>
                         <tr>
-                            <th> 11 </th>
+                            <th> 7 </th>
                             <th> Total </th>
-                            <th>1,565,000</th>
+                            <th>685,000</th>
                         </tr>
                     </tbody>
                 </table>
@@ -307,7 +226,7 @@
     </div>
 
     <tr>
-        <th> SMP IX </th>
+        <th> SMK XII </th>
     </tr>
     <div class="row clearfix">
         <div class="col-12">
@@ -324,47 +243,7 @@
                     <tbody>
                         <tr>
                             <th class="w60">1</th>
-                            <td> Pendidikan Pancasila dan Kewarganegaraan 3 (E) </td>
-                            <td>80,000</td>
-                            <td>
-                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
-                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
-                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <th class="w60">1</th>
-                            <td>Mahir Berbahasa Indonesia 3 (E)</td>
-                            <td>105,000</td>
-                            <td>
-                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
-                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
-                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <th class="w60">1</th>
-                            <td>ESPS IPA - Biologi 3 (E)</td>
-                            <td>70,000</td>
-                            <td>
-                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
-                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
-                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <th class="w60">1</th>
-                            <td>ESPS IPA - Fisika 3 (E)</td>
-                            <td>100,000 </td>
-                            <td>
-                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
-                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
-                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <th class="w60">1</th>
-                            <td>IPS 3 (E)</td>
+                            <td>Pendidikan Pancasila dan Kewarganegaraan 3 (E) </td>
                             <td>100,000</td>
                             <td>
                             <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
@@ -374,8 +253,8 @@
                         </tr>
                         <tr>
                             <th class="w60">1</th>
-                            <td>New Syllabus Maths 3 (S)</td>
-                            <td>320,000</td>
+                            <td>PTP Berbahasa Indonesia 3 (E)</td>
+                            <td>50,000</td>
                             <td>
                             <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
                             <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
@@ -384,7 +263,17 @@
                         </tr>
                         <tr>
                             <th class="w60">1</th>
-                            <td>B. Mandarin HELLO jld. 9 (Textbook)</td>
+                            <td>PTP Matemika 3 (E)</td>
+                            <td>30,000</td>
+                            <td>
+                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
+                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
+                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <th class="w60">1</th>
+                            <td>B. Mandarin HELLO jld. 12 (Textbook) </td>
                             <td>65,000</td>
                             <td>
                             <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
@@ -394,7 +283,7 @@
                         </tr>
                         <tr>
                             <th class="w60">1</th>
-                            <td>B. Mandarin HELLO jld. 9 (Workbook) </td>
+                            <td>B. Mandarin HELLO jld. 12 (Workbook) </td>
                             <td>40,000</td>
                             <td>
                             <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
@@ -404,8 +293,8 @@
                         </tr>
                         <tr>
                             <th class="w60">1</th>
-                            <td>Gold Experience B2 (PL) </td>
-                            <td>260,000</td>
+                            <td>Buku Tulis SMK 1 Set</td>
+                            <td>125,000</td>
                             <td>
                             <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
                             <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
@@ -413,33 +302,12 @@
                             </td>
                         </tr>
                         <tr>
-                            <th class="w60">1</th>
-                            <td>Reading Explorer 3 (NG) </td>
-                            <td>240,000</td>
-                            <td>
-                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
-                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
-                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <th class="w60">1</th>
-                            <td>Buku Tulis 1 Set</td>
-                            <td>110,000</td>
-                            <td>
-                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
-                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
-                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <th> 11 </th>
+                            <th> 6 </th>
                             <th> Total </th>
-                            <th>1,490,000</th>
+                            <th>410,000</th>
                         </tr>
                     </tbody>
                 </table>
-                <button type="button" class="btn btn-info add-new"><i class="fa fa-plus"></i> Add New</button>
             </div>
         </div>
     </div>
