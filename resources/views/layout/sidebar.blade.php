@@ -19,7 +19,13 @@
                     <li class="active">
                         <a href="admin" class="has-arrow"><i class="fa fa-home"></i><span data-hover="Dashboard">Dashboard</span></a>
                     </li>
-                    <li><a href="murid"><i class="fa fa-user"></i><span data-hover="Murid">Student</span></a></li>
+                    <li><a href="student" aria-haspopup="true"><i class="fa fa-user"></i><span data-hover="Murid">Student</a>
+                    <ul class="dropdown" aria-label="submenu">
+                        <li><a href="smp">SMP</a></li>
+                        <li><a href="sma">SMA</a></li>
+                        <li><a href="smk">SMK</a></li>
+                    </ul>
+                    </li>
                     <li><a href="buku"><i class="fa fa-book"></i><span data-hover="Buku">Book</span></a></li>
                     <li><a href="transaksi"><i class="fa fa-money"></i><span data-hover="Transaksi">Transaction</span></a></li>
                 </ul>
@@ -29,3 +35,14 @@
         </div>
     </div>
 </div>
+
+<script>
+function student() {
+  var x = document.getElementById("Demo");
+  if (x.className.indexOf("w3-show") == -1) { 
+    x.className += " w3-show";
+  } else {
+    x.className = x.className.replace(" w3-show", "");
+  }
+}
+</script>

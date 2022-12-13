@@ -45,8 +45,16 @@ Route::get('/buku', function () {
     return view('admin.buku');
 });
 
-Route::get('/murid', function () {
-    return view('admin.murid');
+Route::get('/smp', function () {
+    return view('admin.smp');
+});
+
+Route::get('/sma', function () {
+    return view('admin.sma');
+});
+
+Route::get('/smk', function () {
+    return view('admin.smk');
 });
 
 Route::get('/transaksi', function () {
