@@ -16,10 +16,16 @@
 <link rel="stylesheet" href="{{ asset('plugins/jvectormap/jvectormap-2.0.3.css')}}" />
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css">
 
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
 <!-- Core css -->
 <link rel="stylesheet" href="{{ asset('css/main.css')}}"/>
 <link rel="stylesheet" href="{{ asset('css/theme4.css')}}" id="stylesheet"/>
 </head>
+
 
 <body class="font-opensans">
 

@@ -26,6 +26,9 @@
                         <li><a href="stoksmk">SMK</a></li>
                     </ul>
                     </li>
+                    <li><a href="transaksikasir"><i class="fa fa-list-alt"></i><span data-hover="History">Riwayat Transaksi</span></a>
+                    </li>
+                    </li>
                     <li><a href="bukti"><i class="fa fa-check-square"></i><span data-hover="Validasi">Validation</span></a>
                     </li>
                 </ul>

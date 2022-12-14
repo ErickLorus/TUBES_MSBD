@@ -1,4 +1,4 @@
-@extends('layout.mainAdmin')
+@extends('layout.mainKasir')
 
 @section('content')
 
@@ -6,7 +6,7 @@
 <div id="page_top" class="section-body">
     <div class="page-header">
         <div class="left">
-            <h1 class="page-title">Daftar Transaksi Pembelian Buku T.P. 2022/2023</h1>
+            <h1 class="page-title">Riwayat Pembelian Buku T.P. 2022/2023</h1>
         </div>
     </div>
     <div id="page-top" class="section-body"></div>

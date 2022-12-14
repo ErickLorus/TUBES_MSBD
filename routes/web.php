@@ -89,3 +89,6 @@ Route::get('/stoksmk', function () {
     return view('kasir.stoksmk');
 });
 
+Route::get('/transaksikasir', function () {
+    return view('kasir.transaksikasir');
+});
