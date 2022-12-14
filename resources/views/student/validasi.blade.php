@@ -9,9 +9,7 @@
         Upload Bukti Transfer
       </p><br>
       <div class="row">
-        <div class="col-sm-offset-4 col-sm-4 form-group">
-          <h3 class="text-center">Bukti Transfer</h3>
-        </div>
+
         <!--form-group-->
       </div>
       <!--row-->
@@ -21,13 +19,15 @@
             <div class="docErr">Please upload valid file</div>
             <!--error-->
             <div class="fileUpload btn btn-orange">
-              <img src="https://image.flaticon.com/icons/svg/136/136549.svg" class="icon">
+              <i class="fa fa-upload"></i>
               <span class="upl" id="upload">Upload document</span>
               <input type="file" class="upload up" id="up" onchange="readURL(this);" />
             </div><!-- btn-orange -->
           </div><!-- col-3 -->
           <div class="col-sm-8">
-            <input type="text" class="form-control" name="" placeholder="Note">
+            <input type="text" class="form-control" name="" placeholder="Nama">
+            <input type="text" class="form-control" name="" placeholder="Buku yang dibeli">
+            <input type="text" class="form-control" name="" placeholder="Jumlah">
           </div>
           <!--col-8-->
           <div class="col-sm-1"><a class="btn-check"><i class="fa fa-times"></i></a></div><!-- col-1 -->
@@ -36,8 +36,8 @@
       </div>
       <!--uploader-->
       <div class="text-center">
-        <a class="btn btn-new"><i class="fa fa-plus"></i> Add new</a>
-        <a class="btn btn-next"><i class="fa fa-paper-plane"></i> Submit</a>
+        <a class="btn btn-new text-white"><i class="fa fa-plus"></i> Add new</a>
+        <a class="btn btn-next text-white"><i class="fa fa-paper-plane"></i> Submit</a>
       </div>
     </div>
     <!--one-->
