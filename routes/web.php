@@ -92,3 +92,7 @@ Route::get('/stoksmk', function () {
 Route::get('/transaksikasir', function () {
     return view('kasir.transaksikasir');
 });
+
+Route::get('/bukti', function () {
+    return view('kasir.bukti');
+});
