@@ -29,6 +29,10 @@ Route::get('/login', function () {
     return view('student.login');
 });
 
+Route::get('/validasi', function () {
+    return view('student.validasi');
+});
+
 Route::get('/contact', function () {
     return view('student.contactus');
 });
