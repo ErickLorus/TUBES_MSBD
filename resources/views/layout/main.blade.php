@@ -73,7 +73,6 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/lightslider/1.1.6/js/lightslider.min.js" integrity="sha512-Gfrxsz93rxFuB7KSYlln3wFqBaXUc1jtt3dGCp+2jTb563qYvnUBM/GP2ZUtRC27STN/zUamFtVFAIsRFoT6/w==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
     <link rel="stylesheet" href="{{ asset('css/theme4.css')}}" id="stylesheet"/>
-    <link rel="stylesheet" type="text/css" href="slide navbar theme4.css">
 
 </head>
 
@@ -106,6 +105,10 @@
 
                     <li class="nav-item active">
                         <a class="nav-link" href="/contact">Contact Us</a>
+                    </li>
+
+                    <li class="nav-item active">
+                        <a class="nav-link" href="/login">Log In</a>
                     </li>
                 </ul>    
             </div>
