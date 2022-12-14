@@ -426,6 +426,7 @@ window.anchor= {
     }
 };
 
+/*edit button function*/
 $(document).ready(function(){
 $('[data-toggle="tooltip"]').tooltip();
 var actions = $("table td:last-child").html();
@@ -477,4 +478,17 @@ $(document).on("click", ".delete", function(){
 $(this).parents("tr").remove();
 $(".add-new").removeAttr("disabled");
 });
+});
+
+/* sign in sign up function */
+const signUpButton = document.getElementById('signUp');
+const signInButton = document.getElementById('signIn');
+const container = document.getElementById('container');
+
+signUpButton.addEventListener('click', () => {
+	container.classList.add("right-panel-active");
+});
+
+signInButton.addEventListener('click', () => {
+	container.classList.remove("right-panel-active");
 });
