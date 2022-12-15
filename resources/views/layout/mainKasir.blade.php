@@ -24,6 +24,7 @@
 <!-- Core css -->
 <link rel="stylesheet" href="{{ asset('css/main.css')}}"/>
 <link rel="stylesheet" href="{{ asset('css/theme4.css')}}" id="stylesheet"/>
+<link rel="stylesheet" href="{{ asset('css/theme5.css')}}" id="stylesheet"/>
 </head>
 
 

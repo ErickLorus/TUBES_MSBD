@@ -1174,10 +1174,9 @@ iframe {
 .checkbox-list {
     transform: scale(1.7);
     -webkit-transform: scale(1.7);
-    display: block;
-    position: relative;
-    padding-left: 40px;
+    display: flex;
     padding-top: 10px;
+    margin-left: 20px;
     margin-bottom: 10px;
     cursor: pointer;
     -webkit-user-select: none;

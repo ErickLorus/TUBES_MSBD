@@ -21,6 +21,7 @@
 <!-- Core css -->
 <link rel="stylesheet" href="{{ asset('css/main.css')}}"/>
 <link rel="stylesheet" href="{{ asset('css/theme4.css')}}" id="stylesheet"/>
+<link rel="stylesheet" href="{{ asset('css/theme5.css')}}" id="stylesheet"/>
 
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">

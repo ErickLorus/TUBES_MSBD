@@ -1,0 +1,315 @@
+/*bukti transfer*/
+.proof {
+    width: 500px;
+    height: 500px;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative
+}
+
+
+
+/* kasir form */
+.table-wrapper {
+    width: 700px;
+    margin: 30px auto;
+    background: #fff;
+    padding: 20px;
+    box-shadow: 0 1px 1px rgba(0,0,0,.05);
+    }
+    .table-title {
+    padding-bottom: 10px;
+    margin: 0 0 10px;
+    }
+    .table-title h2 {
+    margin: 6px 0 0;
+    font-size: 22px;
+    }
+    .table-title .add-new {
+    float: right;
+    height: 30px;
+    font-weight: bold;
+    font-size: 12px;
+    text-shadow: none;
+    min-width: 100px;
+    border-radius: 50px;
+    line-height: 13px;
+    }
+    .table-title .add-new i {
+    margin-right: 4px;
+    }
+    table.table {
+    table-layout: fixed;
+    }
+    table.table tr th, table.table tr td {
+    border-color: #e9e9e9;
+    }
+    table.table th i {
+    font-size: 13px;
+    margin: 0 5px;
+    cursor: pointer;
+    }
+    table.table th:last-child {
+    width: 100px;
+    }
+    table.table td a {
+    cursor: pointer;
+    display: inline-block;
+    margin: 0 5px;
+    min-width: 24px;
+    }
+    table.table td a.add {
+    color: #27C46B;
+    }
+    table.table td a.edit {
+    color: #FFC107;
+    }
+    table.table td a.delete {
+    color: #E34724;
+    }
+    table.table td i {
+    font-size: 19px;
+    }
+    table.table td a.add i {
+    font-size: 24px;
+    margin-right: -1px;
+    position: relative;
+    top: 3px;
+    }
+    table.table .form-control {
+    height: 32px;
+    line-height: 32px;
+    box-shadow: none;
+    border-radius: 2px;
+    }
+    table.table .form-control.error {
+    border-color: #f50000;
+    }
+    table.table td .add {
+    display: none;
+    }
+
+    /*sign in and sign up css*/
+    .loginawks{
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 150vh;
+        background: linear-gradient(to bottom, #0f0c29, #302b63, #464695);
+    }
+    .mainsign{
+        width: 350px;
+        height: 500px;
+        background: red;
+        overflow: hidden;
+        background: url("https://doc-08-2c-docs.googleusercontent.com/docs/securesc/68c90smiglihng9534mvqmq1946dmis5/fo0picsp1nhiucmc0l25s29respgpr4j/1631524275000/03522360960922298374/03522360960922298374/1Sx0jhdpEpnNIydS4rnN4kHSJtU1EyWka?e=view&authuser=0&nonce=gcrocepgbb17m&user=03522360960922298374&hash=tfhgbs86ka6divo3llbvp93mg4csvb38") no-repeat center/ cover;
+        border-radius: 10px;
+        box-shadow: 5px 20px 50px #000;
+    }
+    #chk{
+        display: none;
+    }
+    .signup{
+        position: relative;
+        width:100%;
+        height: 100%;
+    }
+    label{
+        color: #fff;
+        font-size: 2.3em;
+        justify-content: center;
+        display: flex;
+        margin: 60px;
+        font-weight: bold;
+        cursor: pointer;
+        transition: .5s ease-in-out;
+    }
+    input{
+        width: 60%;
+        height: 20px;
+        background: #e0dede;
+        justify-content: center;
+        display: flex;
+        margin: 20px auto;
+        padding: 10px;
+        border: none;
+        outline: none;
+        border-radius: 5px;
+    }
+    .sign{
+        width: 60%;
+        height: 40px;
+        margin: 10px auto;
+        justify-content: center;
+        display: block;
+        color: #fff;
+        background: #573b8a;
+        font-size: 1em;
+        font-weight: bold;
+        margin-top: 20px;
+        outline: none;
+        border: none;
+        border-radius: 5px;
+        transition: .2s ease-in;
+        cursor: pointer;
+    }
+    button:hover{
+        background: #6d44b8;
+    }
+    .loginsign{
+        height: 460px;
+        background: #eee;
+        border-radius: 60% / 10%;
+        transform: translateY(-180px);
+        transition: .8s ease-in-out;
+    }
+    .loginsign label{
+        color: #3b468a;
+        transform: scale(.6);
+    }
+    
+    #chk:checked ~ .loginsign{
+        transform: translateY(-500px);
+    }
+    #chk:checked ~ .loginsign label{
+        transform: scale(1);	
+    }
+    #chk:checked ~ .signup label{
+        transform: scale(.6);
+    }
+
+
+    /* Validasi */
+    
+    #one
+    {
+      margin-top:50px;
+     box-shadow: 0px 0px 5px 2px rgba(0,0,0,0.2);
+     background-color: rgb(255, 255, 255);
+     margin-bottom: auto;
+     margin-top: 200px;
+     margin-left: auto;
+     margin-right: auto;
+    }
+    .it .btn-orange
+    {
+        background-color: transparent;
+        border-color: #777!important;
+        color: #777;
+        text-align: left;
+      width:100%;
+    }
+    .it input.form-control
+    {
+        height: 54px;
+        border:none;
+      margin-bottom:0px;
+        border-radius: 0px;
+        border-bottom: 1px solid #ddd;
+        box-shadow: none;
+    }
+    .it .form-control:focus
+    {
+        border-color: #7942e1;
+        box-shadow: none;
+        outline: none;
+    }
+    .fileUpload {
+        position: relative;
+        overflow: hidden;
+        margin: 10px;
+    }
+    .fileUpload input.upload {
+        position: absolute;
+        top: 0;
+        right: 0;
+        margin: 0;
+        padding: 0;
+        font-size: 20px;
+        cursor: pointer;
+        opacity: 0;
+        filter: alpha(opacity=0);
+    }
+    .it .btn-new, .it .btn-next
+    {
+        margin: 30px 0px;
+        border-radius: 0px;
+        background-color: #333;
+        color: #f5f5f5;
+        font-size: 16px;
+        width: 155px;
+    }
+    .it .btn-next
+    {
+        background-color: #573b8a;
+        color: rgb(255, 255, 255);
+    }
+    .it .btn-check
+    {
+      cursor:pointer;
+      line-height:54px;
+      color:red;
+    }
+    .it .uploadDoc
+    {
+        margin-bottom: 20px;
+    }
+    .it .uploadDoc
+    {
+        margin-bottom: 20px;
+    }
+    .it .btn-orange img {
+        width: 30px;
+    }
+    p
+    {
+      font-size:16px;
+      text-align:center;
+      margin:30px 0px;
+    }
+
+    .it #uploader .docErr
+    {
+        position: absolute;
+        right:auto;
+        left: 10px;
+        top: -56px;
+        padding: 10px;
+        font-size: 15px;
+        background-color: #fff;
+        color: red;
+        box-shadow: 0px 0px 7px 2px rgba(0,0,0,0.2);
+        display: none;
+    }
+    .it #uploader .docErr:after
+    {
+        content: '\f0d7';
+        display: inline-block;
+        font-family: FontAwesome;
+        font-size: 50px;
+        color: #fff;
+        position: absolute;
+        left: 30px;
+        bottom: -40px;
+        text-shadow: 0px 3px 6px rgba(0,0,0,0.2);
+    }
+
+    .listcheck {
+        width: 25px;
+        height: 25px;
+    }
+
+    .listbutton{
+        background-color: #573b8a;
+        border-color: #ddd;
+        color: rgb(255, 255, 255);
+        margin: 30px 0px;
+        border-radius: 10px;
+        width: 180px;
+        height: 40px;
+
+        
+    }

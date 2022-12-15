@@ -5,9 +5,6 @@
 <div class="title">
     <h1 class="text-center">List Buku</h1>
     <!-- <p class="text-center">Choose The Category To See Our Galery</p> -->
-
-
-
 </div>
 
 <div class="formListKanan">
@@ -17,27 +14,23 @@
 
             <thead class="thead-dark">
                 <tr>
-                    <th scope="col">No</th>
-                    <th>Judul</th>
-                    <th>Penulis</th>
-                    <th>Penerbit</th>
-                    <th>Tahun</th>
-                    <th>Harga</th>
-                    <th>Ambil</th>
+                    <th scope="col" style="width: 80px">No</th>
+                    <th>Judul Buku</th>
+                    <th style="width: 150px">Kelas</th>
+                    <th style="width: 200px">Harga</th>
+                    <th>Aksi</th>
                 </tr>
             </thead>
 
             <tbody>
                 <tr>
                     <th scope="row">1</th>
-                    <td>Ilmu Pengetahuan Alam</td>
-                    <td>Doraemon</td>
-                    <td>Erlangga</td>
-                    <td>2018</td>
-                    <td>50000</td>
+                    <td> Pendidikan Pancasila dan Kewarganegaraan 1 (E) </td>
+                    <td>SMK X</td>
+                    <td>140,000</td>
                     <td>
                         <form class="checkbox-list" action="proses.php" method="get">
-                            <p><input type='checkbox' name='bahasa1' value='php' /></p>
+                            <p class="listcheck"><input type='checkbox' name='bahasa1' value='php' /></p>
                         </form>
                     </td>
                 </tr>
@@ -45,91 +38,104 @@
 
                 <tr>
                     <th scope="row">2</th>
-                    <td>Matematika</td>
-                    <td>Doraemon</td>
-                    <td>Erlangga</td>
-                    <td>2018</td>
-                    <td>50000</td>
+                    <td>PTP Bahasa Indonesia 1 (E) </td>
+                    <td>SMK X</td>
+                    <td>60,000</td>
                     <td>
                         <form class="checkbox-list" action="proses.php" method="get">
-                            <p><input type='checkbox' name='bahasa1' value='php' /></p>
+                            <p class="listcheck"><input type='checkbox' name='bahasa1' value='php' /></p>
                         </form>
                     </td>
                 </tr>
 
                 <tr>
                     <th scope="row">3</th>
-                    <td>Fisika</td>
-                    <td>Doraemon</td>
-                    <td>Erlangga</td>
-                    <td>2018</td>
-                    <td>50000</td>
+                    <td> PTP Matematika 1 (E) </td>
+                    <td>SMK X</td>
+                    <td>55000</td>
                     <td>
                         <form class="checkbox-list" action="proses.php" method="get">
-                            <p><input type='checkbox' name='bahasa1' value='php' /></p>
+                            <p class="listcheck"><input type='checkbox' name='bahasa1' value='php' /></p>
                         </form>
                     </td>
                 </tr>
 
                 <tr>
                     <th scope="row">4</th>
-                    <td>Kimia</td>
-                    <td>Doraemon</td>
-                    <td>Erlangga</td>
-                    <td>2018</td>
-                    <td>50000</td>
+                    <td> Sejarah Indonesia (E) </td>
+                    <td>SMK X</td>
+                    <td>180,000</td>
                     <td>
                         <form class="checkbox-list" action="proses.php" method="get">
-                            <p><input type='checkbox' name='bahasa1' value='php' /></p>
+                            <p class="listcheck"><input type='checkbox' name='bahasa1' value='php' /></p>
                         </form>
                     </td>
                 </tr>
 
                 <tr>
                     <th scope="row">5</th>
-                    <td>Biologi</td>
-                    <td>Doraemon</td>
-                    <td>Erlangga</td>
-                    <td>2018</td>
-                    <td>50000</td>
+                    <td> Understanding English Grammar </td>
+                    <td>SMK X</td>
+                    <td>300,000</td>
                     <td>
                         <form class="checkbox-list" action="proses.php" method="get">
-                            <p><input type='checkbox' name='bahasa1' value='php' /></p>
+                            <p class="listcheck"><input type='checkbox' name='bahasa1' value='php' /></p>
                         </form>
                     </td>
                 </tr>
 
                 <tr>
                     <th scope="row">6</th>
-                    <td>Bahasa Inggris</td>
-                    <td>Doraemon</td>
-                    <td>Erlangga</td>
-                    <td>2018</td>
-                    <td>50000</td>
+                    <td> Reading Explorer 4 (NG) </td>
+                    <td>SMK X</td>
+                    <td>220,000</td>
                     <td>
                         <form class="checkbox-list" action="proses.php" method="get">
-                            <p><input type='checkbox' name='bahasa1' value='php' /></p>
+                            <p class="listcheck"><input type='checkbox' name='bahasa1' value='php' /></p>
                         </form>
                     </td>
                 </tr>
 
                 <tr>
                     <th scope="row">7</th>
-                    <td>Bahasa Indonesia</td>
-                    <td>Doraemon</td>
-                    <td>Erlangga</td>
-                    <td>2018</td>
-                    <td>50000</td>
+                    <td>B. Mandarin HELLO jld. 10 (Textbook)</td>
+                    <td>SMK</td>
+                    <td>65,000</td>
                     <td>
                         <form class="checkbox-list" action="proses.php" method="get">
-                            <p><input type='checkbox' name='bahasa1' value='php' /></p>
+                            <p class="listcheck"><input type='checkbox' name='bahasa1' value='php' /></p>
                         </form>
                     </td>
                 </tr>
+
+                <tr>
+                    <th scope="row">8</th>
+                    <td> B. Mandarin HELLO jld. 10 (Workbook) </td>
+                    <td>SMK X</td>
+                    <td>40,000</td>
+                    <td>
+                        <form class="checkbox-list" action="proses.php" method="get">
+                            <p class="listcheck"><input type='checkbox' name='bahasa1' value='php' /></p>
+                        </form>
+                    </td>
+                </tr>
+
+                <tr>
+                    <th scope="row">9</th>
+                    <td> Buku Tulis SMK 1 Set </td>
+                    <td>SMK X</td>
+                    <td>125,000</td>
+                    <td>
+                        <form class="checkbox-list" action="proses.php" method="get">
+                            <p class="listcheck"><input type='checkbox' name='bahasa1' value='php' /></p>
+                        </form>
+                    </td>
+                </tr>
+
             </tbody>
         </table>
         <div>
-            <button>Tambah</button>
+            <button class="listbutton"><i class="fa fa-plus"></i> Tambah </button>
         </div>
     </div>
 </div>
