@@ -29,7 +29,7 @@
                 <textarea name="pesan" id="pesan" cols="30" rows="8" class="form-control"></textarea>
             </div>
 
-            <button class="btn btn-primary float-right">Kirim</button>
+            <button class="listbutton">Kirim</button>
         </div>
     </form>
 </div>
