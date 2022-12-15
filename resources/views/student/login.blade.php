@@ -11,7 +11,7 @@
 
 			<div class="signup">
 				<form>
-					<label for="chk" aria-hidden="true">Sign up</label>
+					<label class="labelabua" for="chk" aria-hidden="true">Sign up</label>
 					<input type="text" name="txt" placeholder="User name" required="">
 					<input type="email" name="email" placeholder="Email" required="">
 					<input type="password" name="pswd" placeholder="Password" required="">
@@ -21,7 +21,7 @@
 
 			<div class="loginsign">
 				<form>
-					<label for="chk" aria-hidden="true">Login</label>
+					<label class="labelabua" for="chk" aria-hidden="true">Login</label>
 					<input type="email" name="email" placeholder="Email" required="">
 					<input type="password" name="pswd" placeholder="Password" required="">
 					<button class="sign">Login</button>
