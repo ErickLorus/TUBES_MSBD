@@ -76,8 +76,8 @@
 
 <!--body-->
 
-<body>
-    <nav class="navbar navbar-expand-lg navbar-dark navbarHome fixed-top">
+<body class="main">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light navbarHome fixed-top text-dark">
         <div class="container">
 
             <a class="navbar-brand" href="index.php">

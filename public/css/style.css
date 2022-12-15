@@ -54,14 +54,14 @@ body {
     font-family: "Viga", sans-serif;
     text-transform: uppercase;
     font-weight: 800;
-    color: #fff;
+    color: rgb(0, 0, 0);
 }
 
 .navbar .navbar-collapse .navbar-nav .nav-item .nav-link {
     font-size: 1.1rem;
     margin-left: 20px;
     font-weight: 600;
-    color: #fff;
+    color: rgb(0, 0, 0);
 }
 
 .navbar .form-inline .form-control {
@@ -829,6 +829,7 @@ body {
 
 .kontak {
     margin: 150px 0 150px 0;
+
 }
 
 .kontak form {

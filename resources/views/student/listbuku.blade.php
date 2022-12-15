@@ -99,7 +99,7 @@
                 <tr>
                     <th scope="row">7</th>
                     <td>B. Mandarin HELLO jld. 10 (Textbook)</td>
-                    <td>SMK</td>
+                    <td>SMK X</td>
                     <td>65,000</td>
                     <td>
                         <form class="checkbox-list" action="proses.php" method="get">
