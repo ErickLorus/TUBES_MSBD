@@ -135,7 +135,9 @@
             </tbody>
         </table>
         <div>
+            <a href = "/checkout">
             <button class="listbutton"><i class="fa fa-plus"></i> Tambah </button>
+            </a>
         </div>
     </div>
 </div>

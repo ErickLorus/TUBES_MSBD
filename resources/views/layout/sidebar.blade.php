@@ -34,6 +34,14 @@
                     </ul>
                     </li>
                     <li><a href="transaksi"><i class="fa fa-money"></i><span data-hover="Transaksi">Transaction</span></a></li>
+                    <li><a href="#" aria-haspopup="true"><i class="fa fa-file-pdf-o"></i><span data-hover="Log">Log Table</span></a>
+                    <ul class="dropdown" aria-label="submenu">
+                        <li><a href="/logtransaksi">Log Transaksi</a></li>
+                        <li><a href="/logvalidasi">Log Validasi</a></li>
+                        <li><a href="/logbuku">Log Buku</a></li>
+                        <li><a href="/logstudent">Log Student</a></li>
+                    </ul>
+                    </li>
                 </ul>
             </nav>
         </div>

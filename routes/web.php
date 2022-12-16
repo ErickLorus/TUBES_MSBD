@@ -25,6 +25,10 @@ Route::get('/listbuku', function () {
     return view('student.listbuku');
 });
 
+Route::get('/checkout', function () {
+    return view('student.checkout');
+});
+
 Route::get('/login', function () {
     return view('student.login');
 });
@@ -99,4 +103,8 @@ Route::get('/transaksikasir', function () {
 
 Route::get('/bukti', function () {
     return view('kasir.bukti');
+});
+
+Route::get('/dataexport', function () {
+    return view('kasir.dataexport');
 });

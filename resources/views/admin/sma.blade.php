@@ -30,9 +30,12 @@
                                 <td>AGATHA RUTH TJAHJASARI</td>
                                 <td>7770300722000430</td>
                                 <td>
-                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
-                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
-                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
+                                    <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i
+                                            class="material-icons"></i></a>
+                                    <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i
+                                            class="material-icons"></i></a>
+                                    <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i
+                                            class="material-icons"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -40,9 +43,12 @@
                                 <td>ALDRICH THEODORE TJAHJASARI</td>
                                 <td>7770300722000431</td>
                                 <td>
-                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
-                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
-                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
+                                    <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i
+                                            class="material-icons"></i></a>
+                                    <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i
+                                            class="material-icons"></i></a>
+                                    <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i
+                                            class="material-icons"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -50,9 +56,12 @@
                                 <td>ARETHA QUINN TANDJO</td>
                                 <td>7770300722000432</td>
                                 <td>
-                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
-                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
-                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
+                                    <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i
+                                            class="material-icons"></i></a>
+                                    <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i
+                                            class="material-icons"></i></a>
+                                    <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i
+                                            class="material-icons"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -60,9 +69,12 @@
                                 <td>AVELYN SUKA</td>
                                 <td>7770300722000433</td>
                                 <td>
-                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
-                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
-                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
+                                    <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i
+                                            class="material-icons"></i></a>
+                                    <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i
+                                            class="material-icons"></i></a>
+                                    <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i
+                                            class="material-icons"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -70,9 +82,12 @@
                                 <td>CAYLEB DARIUS SIMJAYA</td>
                                 <td>7770300722000434</td>
                                 <td>
-                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
-                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
-                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
+                                    <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i
+                                            class="material-icons"></i></a>
+                                    <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i
+                                            class="material-icons"></i></a>
+                                    <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i
+                                            class="material-icons"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -80,9 +95,12 @@
                                 <td>CHRICELYN LOUIS ANDITIO</td>
                                 <td>7770300722000435</td>
                                 <td>
-                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
-                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
-                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
+                                    <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i
+                                            class="material-icons"></i></a>
+                                    <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i
+                                            class="material-icons"></i></a>
+                                    <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i
+                                            class="material-icons"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -90,9 +108,12 @@
                                 <td>CLAIRE TANAKA</td>
                                 <td>7770300722000436</td>
                                 <td>
-                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
-                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
-                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
+                                    <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i
+                                            class="material-icons"></i></a>
+                                    <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i
+                                            class="material-icons"></i></a>
+                                    <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i
+                                            class="material-icons"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -100,9 +121,12 @@
                                 <td>EVANO YOSAFAT NATHANAEL PANJAITAN</td>
                                 <td>7770300722000437</td>
                                 <td>
-                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
-                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
-                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
+                                    <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i
+                                            class="material-icons"></i></a>
+                                    <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i
+                                            class="material-icons"></i></a>
+                                    <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i
+                                            class="material-icons"></i></a>
                                 </td>
                             </tr>
                         </tbody>
@@ -133,9 +157,12 @@
                                 <td>ANDREW HO</td>
                                 <td>7770300819000289</td>
                                 <td>
-                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
-                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
-                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
+                                    <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i
+                                            class="material-icons"></i></a>
+                                    <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i
+                                            class="material-icons"></i></a>
+                                    <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i
+                                            class="material-icons"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -143,9 +170,12 @@
                                 <td>ANGELINE JOY</td>
                                 <td>7770401122000258</td>
                                 <td>
-                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
-                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
-                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
+                                    <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i
+                                            class="material-icons"></i></a>
+                                    <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i
+                                            class="material-icons"></i></a>
+                                    <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i
+                                            class="material-icons"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -153,9 +183,12 @@
                                 <td>ANGELINE TANNIA</td>
                                 <td>7770300819000290</td>
                                 <td>
-                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
-                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
-                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
+                                    <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i
+                                            class="material-icons"></i></a>
+                                    <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i
+                                            class="material-icons"></i></a>
+                                    <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i
+                                            class="material-icons"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -163,9 +196,12 @@
                                 <td>BRANDON TUMIWA</td>
                                 <td>7770300819000291</td>
                                 <td>
-                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
-                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
-                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
+                                    <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i
+                                            class="material-icons"></i></a>
+                                    <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i
+                                            class="material-icons"></i></a>
+                                    <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i
+                                            class="material-icons"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -173,9 +209,12 @@
                                 <td>BRITNEY JESSICA SASLIM</td>
                                 <td>7770401021000199</td>
                                 <td>
-                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
-                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
-                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
+                                    <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i
+                                            class="material-icons"></i></a>
+                                    <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i
+                                            class="material-icons"></i></a>
+                                    <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i
+                                            class="material-icons"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -183,9 +222,12 @@
                                 <td>CATRINA YAP</td>
                                 <td>7770300819000292</td>
                                 <td>
-                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
-                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
-                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
+                                    <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i
+                                            class="material-icons"></i></a>
+                                    <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i
+                                            class="material-icons"></i></a>
+                                    <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i
+                                            class="material-icons"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -193,9 +235,12 @@
                                 <td>CHARIS ALICIA DJOHAN</td>
                                 <td>7770300819000293</td>
                                 <td>
-                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
-                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
-                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
+                                    <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i
+                                            class="material-icons"></i></a>
+                                    <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i
+                                            class="material-icons"></i></a>
+                                    <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i
+                                            class="material-icons"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -203,9 +248,12 @@
                                 <td>CHARLES FERNANDO LIM</td>
                                 <td>7770401021000202</td>
                                 <td>
-                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
-                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
-                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
+                                    <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i
+                                            class="material-icons"></i></a>
+                                    <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i
+                                            class="material-icons"></i></a>
+                                    <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i
+                                            class="material-icons"></i></a>
                                 </td>
                             </tr>
                         </tbody>
@@ -235,9 +283,12 @@
                                 <td>AMANDA LUVENA</td>
                                 <td>7770300919000262</td>
                                 <td>
-                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
-                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
-                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
+                                    <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i
+                                            class="material-icons"></i></a>
+                                    <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i
+                                            class="material-icons"></i></a>
+                                    <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i
+                                            class="material-icons"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -245,9 +296,12 @@
                                 <td>ASHLEY STEPHANIE CHEN</td>
                                 <td>7770300919000235</td>
                                 <td>
-                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
-                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
-                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
+                                    <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i
+                                            class="material-icons"></i></a>
+                                    <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i
+                                            class="material-icons"></i></a>
+                                    <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i
+                                            class="material-icons"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -255,9 +309,12 @@
                                 <td>BHAVIKA SHARMA</td>
                                 <td>7770300919000237</td>
                                 <td>
-                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
-                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
-                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
+                                    <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i
+                                            class="material-icons"></i></a>
+                                    <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i
+                                            class="material-icons"></i></a>
+                                    <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i
+                                            class="material-icons"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -265,9 +322,12 @@
                                 <td>CALVIN LEONARD</td>
                                 <td>7770300919000314</td>
                                 <td>
-                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
-                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
-                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
+                                    <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i
+                                            class="material-icons"></i></a>
+                                    <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i
+                                            class="material-icons"></i></a>
+                                    <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i
+                                            class="material-icons"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -275,9 +335,12 @@
                                 <td>CHERLYN TAURA WUTRICIA</td>
                                 <td>7770401020000151</td>
                                 <td>
-                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
-                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
-                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
+                                    <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i
+                                            class="material-icons"></i></a>
+                                    <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i
+                                            class="material-icons"></i></a>
+                                    <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i
+                                            class="material-icons"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -285,9 +348,12 @@
                                 <td>DARRYN NOVIANI</td>
                                 <td>7770401020000191</td>
                                 <td>
-                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
-                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
-                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
+                                    <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i
+                                            class="material-icons"></i></a>
+                                    <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i
+                                            class="material-icons"></i></a>
+                                    <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i
+                                            class="material-icons"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -295,9 +361,12 @@
                                 <td>DAVANEY LEE</td>
                                 <td>7770300919000238</td>
                                 <td>
-                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
-                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
-                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
+                                    <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i
+                                            class="material-icons"></i></a>
+                                    <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i
+                                            class="material-icons"></i></a>
+                                    <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i
+                                            class="material-icons"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -305,13 +374,57 @@
                                 <td>DEVICA KAUR</td>
                                 <td>7770401222000257</td>
                                 <td>
-                            <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i class="material-icons"></i></a>
-                            <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i class="material-icons"></i></a>
-                            <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i class="material-icons"></i></a>
+                                    <a class="add" title="" data-toggle="tooltip" data-original-title="Add"><i
+                                            class="material-icons"></i></a>
+                                    <a class="edit" title="" data-toggle="tooltip" data-original-title="Edit"><i
+                                            class="material-icons"></i></a>
+                                    <a class="delete" title="" data-toggle="tooltip" data-original-title="Delete"><i
+                                            class="material-icons"></i></a>
                                 </td>
                             </tr>
                         </tbody>
                     </table>
+                </div>
+            </div>
+        </div>
+                        <a data-toggle="modal" data-target="#form">
+                            <button class="muridbutton">
+                                <i class="fa fa-edit"></i>
+                                    Add Data
+                            </button>
+                        </a>
+
+
+        <div class="modal fade" id="form" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+            aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered" role="document">
+                <div class="modal-content">
+                    <div class="modal-header border-bottom-0">
+                        <h5 class="modal-title" id="exampleModalLabel">Add Data</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <form>
+                        <div class="modal-body">
+                            <div class="form-group">
+                                <label for="name">Nama Lengkap</label>
+                                <input type="text" class="form-control" id="email1" aria-describedby="nameHelp"
+                                    placeholder="Nama Lengkap">
+                            </div>
+                            <div class="form-group">
+                                <label for="NomorVA">Nomor VA</label>
+                                <input type="text" class="form-control" id="password1" placeholder="Virtual Account">
+                            </div>
+                            <div class="form-group">
+                                <label for="Class">Kelas</label>
+                                <input type="text" class="form-control" id="class1" placeholder="SMA X/XI/XII">
+                            </div>
+                        </div>
+                        <div class="modal-footer border-top-0 d-flex justify-content-center">
+                            <button type="submit" class="listbutton">Submit</button>
+                        </div>
+                    </form>
                 </div>
             </div>
         </div>

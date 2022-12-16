@@ -10,7 +10,9 @@
             <div class="right">
                 <div class="notification d-flex">
                     <button type="button" class="btn btn-facebook"><i class="fa fa-info-circle mr-2"></i>Need Help</button>
-                    <button type="button" class="btn btn-facebook"><i class="fa fa-file-text mr-2"></i>Data export</button>
+                    <a href="/dataexport">
+                    <button type="button" onclick="generatePDF()" class="btn btn-facebook"><i class="fa fa-file-text mr-2"></i>Data export</button>
+                    </a>
                     <button type="button" class="btn btn-facebook"><i class="fa fa-power-off mr-2"></i>Sign Out</button>
                 </div>
             </div>
