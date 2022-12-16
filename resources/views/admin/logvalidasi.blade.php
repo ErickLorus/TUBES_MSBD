@@ -6,11 +6,10 @@
 <div id="page_top" class="section-body">
     <div class="page-header">
         <div class="left">
-            <h1 class="page-title">Log Transaksi</h1>
+            <h1 class="page-title">Log Validasi</h1>
         </div>
     </div>
     <br>
-
 
     <div id="page_top" class="section-body">
         <div class="row clearfix">
@@ -20,10 +19,9 @@
                         <thead>
                             <tr>
                                 <th style="width: 100px">No</th>
-                                <th style="width: 350px">Sold to (Old)</th>
-                                <th style="width: 350px">Sold to (New)</th>
-                                <th style="width: 200px">Buku Terjual (Old)</th>
-                                <th style="width: 200px">Buku Terjual (New)</th>
+                                <th style="width: 380px">Nama Siswa</th>
+                                <th style="width: 180px">Validation (Old)</th>
+                                <th style="width: 180px">Validation (New)</th>
                                 <th style="width: 200px">Date Modified</th>
                                 <th style="width: 180px">Status</th>
                             </tr>
@@ -32,72 +30,64 @@
                             <tr>
                                 <td class="w60">1</td>
                                 <td>AGATHA RUTH TJAHJASARI</td>
-                                <td>AGATHA RUTH TJAHJASARI</td>
-                                <td>Gold Experience B2+ (PL)</td>
-                                <td>Gold Experience B2+ (PL)</td>
+                                <td>Rejected</td>
+                                <td>Accepted</td>
                                 <td>16/12/2022</td>
                                 <td>Updated</td>
                             </tr>
                             <tr>
                                 <td class="w60">2</td>
                                 <td>ALDRICH THEODORE TJAHJASARI</td>
-                                <td>ALDRICH THEODORE TJAHJASARI</td>
-                                <td>Gold Experience B2+ (PL)</td>
-                                <td>Gold Experience B2+ (PL)</td>
+                                <td>Accepted</td>
+                                <td>Rejected</td>
                                 <td>16/12/2022</td>
                                 <td>Updated</td>
                             </tr>
                             <tr>
                                 <td class="w60">3</td>
                                 <td>ARETHA QUINN TANDJO</td>
-                                <td>ARETHA QUINN TANDJO</td>
-                                <td>Gold Experience B2+ (PL)</td>
-                                <td>Gold Experience B2+ (PL)</td>
+                                <td>Rejected</td>
+                                <td>Accepted</td>
                                 <td>16/12/2022</td>
                                 <td>Updated</td>
                             </tr>
                             <tr>
                                 <td class="w60">4</td>
                                 <td>AVELYN SUKA</td>
-                                <td>AVELYN SUKA</td>
-                                <td>Gold Experience B2+ (PL)</td>
-                                <td>Gold Experience B2+ (PL)</td>
+                                <td>Accepted</td>
+                                <td>Rejected</td>
                                 <td>16/12/2022</td>
                                 <td>Updated</td>
                             </tr>
                             <tr>
                                 <td class="w60">5</td>
                                 <td>CAYLEB DARIUS SIMJAYA</td>
-                                <td>CAYLEB DARIUS SIMJAYA</td>
-                                <td>Gold Experience B2+ (PL)</td>
-                                <td>Gold Experience B2+ (PL)</td>
+                                <td>Rejected</td>
+                                <td>Accepted</td>
                                 <td>16/12/2022</td>
                                 <td>Updated</td>
                             </tr>
                             <tr>
                                 <td class="w60">6</td>
                                 <td>CHRICELYN LOUIS ANDITIO</td>
-                                <td>CHRICELYN LOUIS ANDITIO</td>
-                                <td>Gold Experience B2+ (PL)</td>
-                                <td>Gold Experience B2+ (PL)</td>
+                                <td>Accepted</td>
+                                <td>Rejected</td>
                                 <td>16/12/2022</td>
                                 <td>Updated</td>
                             </tr>
                             <tr>
                                 <td class="w60">7</td>
                                 <td>CLAIRE TANAKA</td>
-                                <td>CLAIRE TANAKA</td>
-                                <td>Gold Experience B2+ (PL)</td>
-                                <td>Gold Experience B2+ (PL)</td>
+                                <td>Rejected</td>
+                                <td>Accepted</td>
                                 <td>16/12/2022</td>
                                 <td>Updated</td>
                             </tr>
                             <tr>
                                 <td class="w60">8</td>
                                 <td>EVANO YOSAFAT NATHANAEL PANJAITAN</td>
-                                <td>EVANO YOSAFAT NATHANAEL PANJAITAN</td>
-                                <td>Gold Experience B2+ (PL)</td>
-                                <td>Gold Experience B2+ (PL)</td>
+                                <td>Accepted</td>
+                                <td>Rejected</td>
                                 <td>16/12/2022</td>
                                 <td>Updated</td>
                             </tr>

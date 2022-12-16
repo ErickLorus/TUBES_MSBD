@@ -81,6 +81,22 @@ Route::get('/transaksi', function () {
     return view('admin.transaksi');
 });
 
+Route::get('/logstudent', function () {
+    return view('admin.logstudent');
+});
+
+Route::get('/logtransaksi', function () {
+    return view('admin.logtransaksi');
+});
+
+Route::get('/logvalidasi', function () {
+    return view('admin.logvalidasi');
+});
+
+Route::get('/logbuku', function () {
+    return view('admin.logbuku');
+});
+
 Route::get('/kasir', function () {
     return view('kasir.index');
 });
